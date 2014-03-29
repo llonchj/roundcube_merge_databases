@@ -1,3 +1,4 @@
 include roundcube_merge_databases.py
+include requisites.txt
 include README.md
 include LICENSE.txt

@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='roundcube_merge_databases',
-    version='0.1.0',
+    version='0.1.1',
     author='Jordi Llonch',
     author_email='llonchj@gmail.com',
     url='https://github.com/nitidum/roundcube_merge_databases.git',

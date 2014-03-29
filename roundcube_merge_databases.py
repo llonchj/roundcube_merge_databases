@@ -160,7 +160,6 @@ def main():
                          exc, db_dest, options.db_host)
         exit(2)
 
-    exit(1)
     try:
         move(db_source, db_dest, options.where)
     except Exception, exc:
